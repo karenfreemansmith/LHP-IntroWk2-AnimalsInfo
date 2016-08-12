@@ -9,3 +9,9 @@
 #insects {
   display:none;
 }
+
+img {
+  width: 33%;
+  float: left;
+  margin-right: 10px;
+}
