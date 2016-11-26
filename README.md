@@ -1,22 +1,19 @@
-# :snake: :beetle: :turtle: [Animal Information](http://karenfreemansmith.github.io/animal) :snake: :beetle: :turtle:
-![project screenshot](/img/screenshot.jpg)
+# Animal Information
+Version 0.0.1: March 17, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: March 27, 2016__
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+![screenshot of project running](screenshot.png)
 
-### Description
-__*A jQuery site customized to display information about selected animal(s)*__
-
-This project used jQuery to hide information on a page until the visitor fills out a form and selects an animal, it then shows the relevant information to the visitor.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A jQuery site customized to display information about selected animal(s).*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk2-AnimalsInfo)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
